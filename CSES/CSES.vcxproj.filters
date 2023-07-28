@@ -20,13 +20,25 @@
     </Text>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="dice_combinations.cpp">
+    <ClCompile Include="1633.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="minimizing_coins.cpp">
+    <ClCompile Include="1634.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="coin_combinations_i.cpp">
+    <ClCompile Include="1635.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="1081.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="1716.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="1163.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="1713.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
